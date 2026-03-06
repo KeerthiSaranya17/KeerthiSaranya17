@@ -64,7 +64,6 @@ A React application to manage projects and assign testers with **search function
 
 * LinkedIn: https://www.linkedin.com/in/keerthi-saranya-muttha-b380ba287/
 * Email: mutthakeerthisaranya@gmail.com
-* Portfolio: 
 
 ---
 
